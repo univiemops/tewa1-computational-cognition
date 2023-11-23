@@ -11,7 +11,7 @@ Tuesdays 14:45-16:15 in Room F, Liebiggasse 5.
 **Course number**:  
 200233 SE Theory and Empirical Research 1 (Master Psychology, 840 [2] - Version 2017)
 
-**Contact information and EdStem**:  
+**Contact information and moodle**:  
 The [moodle course](https://moodle.univie.ac.at/course/view.php?id=358850) is the main point of contact. We use it for questions and class discussions. Rather than emailing questions to the teaching staff, please post your questions on moodle. It will get you a faster response and the answer will benefit others with the same question.
 
 If you have a question that isn't suitable for moodle and there is a need to email the teaching staff directly, please use the following email address: **mengfan.zhang@univie.ac.at**
