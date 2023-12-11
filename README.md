@@ -16,26 +16,24 @@ The [moodle course](https://moodle.univie.ac.at/course/view.php?id=358850) is th
 
 If you have a question that isn't suitable for moodle and there is a need to email the teaching staff directly, please use the following email address: **mengfan.zhang@univie.ac.at**
 
-**Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
+**Summary**: This course is an introduction to working with the leading computational frameworks for understanding human cognition. Psychologists are confronted with increasing amounts of human behavioral data. We want to use computational cognitive modeling and this behavioral data to understand the mind and the brain by building computational models of the cognitive processes that produce this data. While the focus of the course is on the practical and programming aspects, we will also discuss the theoretical aspects of these topics for cognitive science. Lectures will focus on the theory; in the labs we will program using practical examples.
 
-The lectures cover artificial neural networks (deep learning), reinforcement learning, Bayesian modeling, model comparison and fitting, classification, probabilistic graphical models, and program induction. Modeling examples span a broad set of psychological abilities including learning, categorization, language, memory, decision-making, and reasoning. The homework assignments include examining and implementing the models surveyed in class. Students will leave the course with a richer understanding of how computational modeling advances cognitive science, how cognitive science can inform research in machine learning and AI, and how to fit and evaluate cognitive models to understand behavioral data.
+The course will be divided into three parts: The first part is a general introduction to the Python programming language and the most important libraries for data analysis: Numpy, Scipy, Matplotlib, Pandas. The second part of the course focuses on general data science methods (statistical inference with resampling methods, regression models, machine learning). In the last part of the course, we will apply the learned programming to models of particular relevance to cognitive science (Bayesian modeling, deep learning, and reinforcement learning).
 
-Please note that this syllabus is not final and there may be further adjustments.
+Homework assignments will include testing and implementing the methods learned in class. Students will leave the course with a broader understanding of how computational methods advance psychology, how psychology can inform research in machine learning and AI, and how cognitive models are adapted and evaluated to understand behavioral data.
 
 ## Pre-requisites
-- Math: We will use concepts from linear algebra, calculus, and probability. If you had linear algebra and calculus as an undergrad, or if you have taken Math Tools in the psychology department, you will be in a good position for approaching the material. Familiarity with probability is also assumed. We will review some of the basic technical concepts in the lab.
+- Mathematics: Although concepts from linear algebra, calculus and probability theory are used, it is not necessary to have a very comprehensive understanding of them. We will review some of the basic concepts in the lab.
 
-- Programming: Previous experience with Python is required. Previous IN CLASS experience with Python is strongly recommended ---it’s assumed you know how to program in Python. The assignments will use Python 3 and [Jupyter Notebooks](http://jupyter.org).
-
+- Programming: Previous knowledge of Python is not mandatory, but strongly recommended as the course topics become increasingly complex. Python 3 and [Jupyter Notebooks](http://jupyter.org) are used for the in-class and homework assignments.
+ 
 ## Grading
 The final grade is based on the homeworks (50%), the in-class evaluations (15%) and the final project (35%).   
 
-Class participation may be used to decide grades in borderline cases.   
-
 ## Final Project
-The final project proposal is due April 10 (0.5 pages written). Please submit via moodle **with the file name lastname1-lastname2-lastname3-tewa1-proposal.pdf**. Make sure to include the names of all of your group members at the top of the document too.
+The final project proposal is due May 30 (0.5 pages written). Please submit via moodle **with the file name lastname1-lastname2-lastname3-tewa1-proposal.pdf**. Make sure to include the names of all of your group members at the top of the document too.
 
-The final project is due May 10. Please submit via moodle **with the file name lastname1-lastname2-lastname3-tewa1-final.pdf**. Make sure to include the names of all of your group members at the top of the document too.
+The final project is due June 20. Please submit via moodle **with the file name lastname1-lastname2-lastname3-tewa1-final.pdf**. Make sure to include the names of all of your group members at the top of the document too.
 
 The final project will be done in groups of 3-4 students. A short paper will be turned in describing the project (approximately 6 pages). The project will represent either a substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a cognitive modeling project related to your research.  We provide a list of project ideas [here](final_project_ideas.md), but of course, you do not have to choose from this list.
 
