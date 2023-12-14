@@ -1,6 +1,6 @@
 # Computational cognition course (TEWA 1) - Summer semester 2024
 
-**Instructors**: [József Arato](https://ufind.univie.ac.at/en/person.html?id=108388), [Mengfan Zhang (张梦凡)](https://ufind.univie.ac.at/en/person.html?id=113298) and [Dominik Pegler](https://ufind.univie.ac.at/en/person.html?id=1001597)
+**Instructors**: [Mengfan Zhang (张梦凡)](https://ufind.univie.ac.at/en/person.html?id=113298), [Dominik Pegler](https://ufind.univie.ac.at/en/person.html?id=1001597) and [József Arato](https://ufind.univie.ac.at/en/person.html?id=108388)
 
 **Lectures.**
 Tuesdays 13:00-14:30 in Room F, Liebiggasse 5.
