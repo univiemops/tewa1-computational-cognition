@@ -14,3 +14,11 @@ repos:
       additional_dependencies: [flake8==3.8.4]
     - id: nbqa-pydocstyle
     - id: nbqa-pylint
+- repo: https://github.com/kynan/nbstripout
+  rev: 0.6.1
+  hooks:
+    - id: nbstripout
+- repo: https://github.com/asottile/blacken-docs
+  rev: 1.16.0
+  hooks:
+    - id: blacken-docs
