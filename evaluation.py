@@ -8,11 +8,10 @@ def random_choice_p(
     """Pick item based on probabilities and update probabilities."""
     if probabilities is None:
         probabilities = np.ones(len(items)) / len(items)
-    items = np.array(items)
     choice_prob = probabilities.copy()
 
     if type(exclude) == list:
-        excluded_indices = [students.index(excluded_item) for excluded_item in exclude]
+        excluded_indices = [items.index(excluded_item) for excluded_item in exclude]
         for i in excluded_indices:
             choice_prob[i] = 0.0
             choice_prob /= choice_prob.sum()
@@ -20,10 +19,10 @@ def random_choice_p(
         raise ValueError("exclude must be a list or None.")
 
     if type(fixed) == list:
-        if len(list) == size:
+        if len(fixed) == size:
             chosen_items = fixed
             chosen_indices = [
-                students.index(chosen_item) for chosen_item in chosen_items
+                items.index(chosen_item) for chosen_item in chosen_items
             ]
         else:
             raise ValueError("fixed must have the same length as size.")
@@ -32,7 +31,7 @@ def random_choice_p(
         chosen_indices = np.random.choice(
             len(items), size=size, replace=False, p=choice_prob
         )
-        chosen_items = items[chosen_indices]
+        chosen_items = list(np.array(items)[chosen_indices])
     probabilities[chosen_indices] /= factor
 
     probabilities /= probabilities.sum()
