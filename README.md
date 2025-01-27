@@ -2,11 +2,11 @@
 
 **Instructors**: [Mengfan Zhang](https://ufind.univie.ac.at/en/person.html?id=113298), [Dominik Pegler](https://ufind.univie.ac.at/en/person.html?id=1001597) and [József Arato](https://ufind.univie.ac.at/en/person.html?id=108388)
 
-**Lectures.**
-Tuesdays 16:45-18:15 in Lecture Hall H, KG, Liebiggasse 5.
+**Lectures.**  
+Tuesdays 16:45-18:15 in Lecture Hall H, KG, Liebiggasse 5.  
 
-**Labs.** 
-Tuesdays 18:30-20:00 in Lecture Hall H, KG, Liebiggasse 5.
+**Labs.**  
+Tuesdays 18:30-20:00 in Lecture Hall H, KG, Liebiggasse 5.  
 
 **Course number**:  
 200222 SE Theory and Empirical Research 1 (Master Psychology)
